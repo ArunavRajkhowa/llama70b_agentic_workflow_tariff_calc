@@ -1,0 +1,10 @@
+streamlit
+requests
+langchain
+langchain_openai
+langchain_community
+faiss-cpu
+pdf2image
+pillow
+docling
+python-dotenv
